@@ -1,0 +1,2 @@
+# Temooo
+Gos script
